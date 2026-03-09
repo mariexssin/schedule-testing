@@ -4,6 +4,7 @@ about: Створення нової user story
 title: "[US] "
 labels: user-story
 assignees: ''
+
 ---
 
 ## User Story

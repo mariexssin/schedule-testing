@@ -4,6 +4,7 @@ about: Уточнення вимоги
 title: "[QUESTION] "
 labels: question
 assignees: ''
+
 ---
 
 ## Оригінальна вимога
